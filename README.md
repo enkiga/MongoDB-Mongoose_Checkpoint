@@ -11,7 +11,7 @@
 - Navigate to the project directory:
 
 ```sh
-   cd mongoose_checkpoint
+   cd MongoDB-Mongoose_Checkpoint
 ```
 
 - Install the dependencies:
